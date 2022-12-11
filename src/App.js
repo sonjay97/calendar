@@ -10,7 +10,7 @@ function App() {
 
   return (
     <div className='app'>
-      <h1 className='text-center'>React Calendar with Range</h1>
+      <h1 className='text-center'>Jay's "ReactJS" Calendar</h1>
       <div className='calendar-container'>
         <Calendar
           onChange={setDate}
